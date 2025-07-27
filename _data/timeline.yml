@@ -1,17 +1,24 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Fresh Graduate, University of Indonesia – Computer Science
+  from: 2021
+  to: 2025
+  description: Computer Science Fresh Graduate that has strong academic foundation in programming, data analysis, and machine learning. Completed courses in statistics, data mining, and software engineering. Selected as a participant in Bangkit Academy 2024 (Machine Learning cohort) led by Google, Tokopedia, Gojek, and Traveloka.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: System Analyst Intern, PT Sinergi Merah Putih
+  from: 2025
+  to: 2025
+  description: Designed relational databases and technical system diagrams (ERD, flowchart, sequence) for SaaS and AI Robot projects. Translated business requirements into developer-ready tasks, led two development teams, and coordinated with cross-functional divisions to ensure technical alignment with business goals.
+
+- title: Staff Supporting Development Intern, Bank Negara Indonesia (BNI)
+  from: 2024
+  to: 2024
+  description: Built a real-time dashboard using Streamlit for internal company guidance monitoring. Processed and cleaned Excel data to extract insights and visualized key performance indicators. Developed evaluation metrics to assess AI output quality for internal systems.
+
+- title: Backend Developer, Konekseed
+  from: 2023
+  to: 2024
+  description: Designed scalable system architecture and developed clean RESTful APIs using Django. Applied clean code principles, standardized Git workflows, and deployed services using Docker. Collaborated with frontend developers and contributed to database design.
+
+- title: Teaching Assistant, Faculty of Computer Science – University of Indonesia
+  from: 2022
+  to: 2024
+  description: Assisted courses in Statistics, AI & Data Science, and Programming. Led a team of 9 assistants for Statistics & Probability, created coding assignments, and supported students through discussions and exam prep.  
